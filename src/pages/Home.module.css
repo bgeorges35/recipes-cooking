@@ -1,0 +1,31 @@
+.home {
+  padding: 2%;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  padding: 0% 2%;
+}
+
+.sentence {
+  font-size: 2vw;
+  color: rgb(138, 138, 138);
+}
+
+.title {
+  font-size: 6vw;
+  margin: 3rem 0rem;
+}
+
+.buttons {
+  text-align: center;
+}
+
+@media (max-width: 960px) {
+  .home {
+    flex-wrap: wrap-reverse;
+  }
+}

@@ -1,0 +1,10 @@
+.img-get-start {
+  background-color: #fff;
+  padding: 3% 1%;
+  border-radius: 30px;
+}
+
+.img-get-start > img {
+  width: 50vw;
+  height: auto;
+}

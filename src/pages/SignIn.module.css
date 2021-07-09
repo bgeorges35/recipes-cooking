@@ -1,0 +1,40 @@
+.form > input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.sign {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  min-width: 40%;
+}
+
+.links {
+  color: rgba(0, 0, 0, 0.479);
+  font-size: small;
+}
+
+.btn {
+  width: 100%;
+  text-align: center;
+}
+
+.btn > button {
+  cursor: pointer;
+  border-radius: 5em;
+  border: 0;
+  padding: 2% 5%;
+  background-color: #5bcca1;
+  margin: 0 5%;
+}

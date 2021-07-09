@@ -1,0 +1,21 @@
+.btn1 {
+  cursor: pointer;
+  padding: 0.3em 1.2em;
+  border-radius: 30px;
+  margin: 1%;
+  font-size: 2vw;
+  background-color: #5bcca1;
+  color: rgb(245, 246, 248);
+  text-decoration: none;
+}
+
+.btn2 {
+  cursor: pointer;
+  padding: 0.3em 1.2em;
+  border-radius: 30px;
+  margin: 1%;
+  font-size: 2vw;
+  background-color: rgb(255, 255, 255);
+  color: #5bcca1;
+  text-decoration: none;
+}
